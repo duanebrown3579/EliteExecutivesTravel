@@ -1,1 +1,163 @@
+================================================================================
+ELITE EXECUTIVES — COMPLETE MANUAL REVIEW URL INDEX (TASKS 1–28)
+================================================================================
 
+Total Pages Modified: 34
+All links are direct clickable URLs.
+
+--------------------------------------------------------------------------------
+🔴 P0 / CRITICAL DECONTAMINATION CHECKS (8 PAGES)
+--------------------------------------------------------------------------------
+
+[ ] 1. EDINBURGH CITY CHAUFFEUR
+    URL: https://eliteexecutives.co.uk/cities/edinburgh/
+    Check: Zero Bristol/Portishead text. Leith, South Queensferry, EDI Airport active.
+
+[ ] 2. EPSOM CITY CHAUFFEUR
+    URL: https://eliteexecutives.co.uk/cities/epsom/
+    Check: Zero Bristol text. Ewell, Ashtead, Epsom Downs racecourse active.
+
+[ ] 3. GATESHEAD CITY CHAUFFEUR
+    URL: https://eliteexecutives.co.uk/cities/gateshead/
+    Check: Zero Bristol text. Newcastle Quayside, Team Valley, NCL Airport active.
+
+[ ] 4. FINANCIAL ROADSHOW CHAUFFEUR LONDON
+    URL: https://eliteexecutives.co.uk/financial-roadshow-chauffeur-london/
+    Check: Zero Beaconsfield text. City of London & Canary Wharf B2B roadshow active.
+
+[ ] 5. CORPORATE CHAUFFEUR LONDON
+    URL: https://eliteexecutives.co.uk/corporate-chauffeur-london/
+    Check: Zero Cambridge/Luton depot text. Central London & Canary Wharf B2B active.
+
+[ ] 6. OXFORD TO LONDON CHAUFFEUR
+    URL: https://eliteexecutives.co.uk/oxford-to-london-chauffeur/
+    Check: Zero Cambridge/Stansted text. Oxford M40/A40 transfer corridor active.
+
+[ ] 7. HEATHROW AIRPORT CHAUFFEUR
+    URL: https://eliteexecutives.co.uk/airports/heathrow-airport/
+    Check: Zero Beaconsfield monitoring. London Heathrow arrivals & T2-T5 routing active.
+
+[ ] 8. GATWICK AIRPORT CHAUFFEUR
+    URL: https://eliteexecutives.co.uk/airports/gatwick-airport/
+    Check: Zero Beaconsfield monitoring. London Gatwick North/South terminal routing active.
+
+
+--------------------------------------------------------------------------------
+🟠 P1 / HIGH COMMERCIAL & AIRPORT CHECKS (8 PAGES)
+--------------------------------------------------------------------------------
+
+[ ] 9. BIGGIN HILL AIRPORT (BQH)
+    URL: https://eliteexecutives.co.uk/airports/biggin-hill/
+    Check: Zero black cab/Bath text. Jetex London, BQH handling, Mayfair transfers active.
+
+[ ] 10. CANARY WHARF CHAUFFEUR
+    URL: https://eliteexecutives.co.uk/canary-wharf-chauffeur/
+    Check: Zero Harrods Aviation Luton text. One Canada Square & Bank Street B2B active.
+
+[ ] 11. LUTON AIRPORT CHAUFFEUR
+    URL: https://eliteexecutives.co.uk/airports/luton-airport/
+    Check: London Luton flight monitoring & valid Airport schema active.
+
+[ ] 12. BEACONSFIELD CHAUFFEUR SERVICE
+    URL: https://eliteexecutives.co.uk/chauffeur-service-beaconsfield/
+    Check: Zero Luton depot/Bath text. HP9 Beaconsfield executive resident context active.
+
+[ ] 13. EGHAM CHAUFFEUR SERVICE
+    URL: https://eliteexecutives.co.uk/chauffeur-service-egham/
+    Check: Zero Luton FBO text. Surrey, Wentworth Estate & Heathrow transfers active.
+
+[ ] 14. LUTON FBO TO LONDON VIP CHAUFFEUR
+    URL: https://eliteexecutives.co.uk/luton-fbo-to-london-vip-chauffeur/
+    Check: "Private FBO terminal curbside" wording active (no "private apron" claims).
+
+[ ] 15. CRAWLEY CITY CHAUFFEUR
+    URL: https://eliteexecutives.co.uk/cities/crawley/
+    Check: Zero Bristol text. Gatwick Airport, Manor Royal & Sussex areas active.
+
+[ ] 16. CROYDON CITY CHAUFFEUR
+    URL: https://eliteexecutives.co.uk/cities/croydon/
+    Check: Zero Bristol text. Purley, Shirley & South London/Gatwick areas active.
+
+
+--------------------------------------------------------------------------------
+🟡 P2 / REGIONAL & ROUTE CHECKS (14 PAGES)
+--------------------------------------------------------------------------------
+
+[ ] 17. ASCOT CHAUFFEUR SERVICE
+    URL: https://eliteexecutives.co.uk/chauffeur-service-ascot/
+    Check: Ascot, Sunninghill & Wentworth Estate executive resident content active.
+
+[ ] 18. MAYFAIR CHAUFFEUR SERVICE
+    URL: https://eliteexecutives.co.uk/chauffeur-service-mayfair/
+    Check: Claridge's, The Connaught, Bond Street retail & 5-star hotel links active.
+
+[ ] 19. WATFORD CHAUFFEUR SERVICE
+    URL: https://eliteexecutives.co.uk/chauffeur-service-watford/
+    Check: Watford business parks, Croxley Park & M25 corporate commuting active.
+
+[ ] 20. ABOUT US
+    URL: https://eliteexecutives.co.uk/about-us/
+    Check: Founding story, TfL PCO credentials & confidentiality trust signals active.
+
+[ ] 21. MERCEDES V-CLASS FLEET PAGE
+    URL: https://eliteexecutives.co.uk/fleets/mercedes-v-class/
+    Check: 7 pax, 7 bags, conference seating & ISOFIX child seats specs active.
+
+[ ] 22. BRITISH GRAND PRIX CHAUFFEUR (SILVERSTONE)
+    URL: https://eliteexecutives.co.uk/british-grand-prix-chauffeur/
+    Check: Silverstone VIP paddock, helicopter transfers & all-day standby active.
+
+[ ] 23. HENLEY ROYAL REGATTA CHAUFFEUR
+    URL: https://eliteexecutives.co.uk/henley-royal-regatta-chauffeur/
+    Check: Stewards' Enclosure, Leander Club & riverside drop-off guide active.
+
+[ ] 24. SIGNATURE FLIGHT SUPPORT FBO
+    URL: https://eliteexecutives.co.uk/airports/signature-flight-support/
+    Check: Signature Flight Support private FBO handling copy active.
+
+[ ] 25. HARPENDEN TO LUTON FBO CHAUFFEUR
+    URL: https://eliteexecutives.co.uk/harpenden-to-luton-fbo-chauffeur/
+    Check: Direct 15-min Harpenden to Luton FBO private transfer copy active.
+
+[ ] 26. ST ALBANS TO HEATHROW CHAUFFEUR
+    URL: https://eliteexecutives.co.uk/st-albans-to-heathrow-chauffeur/
+    Check: St Albans M25/M4 Heathrow Terminals 2-5 transfer corridor copy active.
+
+[ ] 27. GUILDFORD TO HEATHROW TERMINAL 5
+    URL: https://eliteexecutives.co.uk/guildford-to-heathrow-terminal-5/
+    Check: Guildford A3/M25 Heathrow T5 executive corridor copy active.
+
+[ ] 28. CAMBRIDGE TO HEATHROW CHAUFFEUR
+    URL: https://eliteexecutives.co.uk/cambridge-to-heathrow-chauffeur/
+    Check: Cambridge M11/M25 Silicon Fen to Heathrow transfer corridor active.
+
+[ ] 29. BEACONSFIELD TO LONDON CITY AIRPORT
+    URL: https://eliteexecutives.co.uk/beaconsfield-to-london-city-airport/
+    Check: Beaconsfield M40/A40 to London City Airport transfer corridor active.
+
+[ ] 30. MILTON KEYNES TO GATWICK CHAUFFEUR
+    URL: https://eliteexecutives.co.uk/milton-keynes-to-gatwick-chauffeur/
+    Check: Milton Keynes M1/M25 Gatwick Airport transfer corridor active.
+
+
+--------------------------------------------------------------------------------
+🟢 P3 / VISUAL ASSETS & GLOBAL ENHANCEMENTS (4 PAGES)
+--------------------------------------------------------------------------------
+
+[ ] 31. HOMEPAGE
+    URL: https://eliteexecutives.co.uk/
+    Check: Clean layout, global Organization schema & fast load.
+
+[ ] 32. FLEET PILLAR PAGE
+    URL: https://eliteexecutives.co.uk/fleets/
+    Check: High-res authentic WebP fleet showcase photography.
+
+[ ] 33. MERCEDES S-CLASS FLEET PAGE
+    URL: https://eliteexecutives.co.uk/fleets/mercedes-s-class/
+    Check: Authentic Mercedes S-Class exterior & executive cabin images.
+
+[ ] 34. POLO EVENTS CHAUFFEUR SERVICE
+    URL: https://eliteexecutives.co.uk/polo-events-chauffeur-service/
+    Check: Luxury polo event photography & descriptive alt text.
+
+================================================================================
